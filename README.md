@@ -1,5 +1,8 @@
 # Knowledge
-Resources and tutorials on various topics relating to molecular biology, neuroscience, bioinformatics, programming, statistics and machine learning. 
+Resources and tutorials on various topics relating to molecular biology, neuroscience, bioinformatics, programming, statistics and machine learning.
+
+## Useful Links:
+  * [Github Markdown and Formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 Topics and Resources
 ====================
