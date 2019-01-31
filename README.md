@@ -26,6 +26,7 @@ Topics and Resources
   * [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance)
   * [Seeing Theory](https://seeing-theory.brown.edu/)
   * [Count Data and GLMs](https://www.r-bloggers.com/count-data-and-glms-choosing-among-poisson-negative-binomial-and-zero-inflated-models/)
+  * [Linear Models in R](https://feliperego.github.io/blog/2015/10/23/Interpreting-Model-Output-In-R)
 
 #### Tutorials 
   * [Coursera: Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics)
