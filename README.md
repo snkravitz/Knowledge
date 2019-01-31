@@ -25,6 +25,7 @@ Topics and Resources
   * [Statsmodels Docs](http://www.statsmodels.org/stable/index.html)
   * [Points of Significance](https://www.nature.com/collections/qghhqm/pointsofsignificance)
   * [Seeing Theory](https://seeing-theory.brown.edu/)
+  * [Count Data and GLMs](https://www.r-bloggers.com/count-data-and-glms-choosing-among-poisson-negative-binomial-and-zero-inflated-models/)
 
 #### Tutorials 
   * [Coursera: Statistics for Genomic Data Science](https://www.coursera.org/learn/statistical-genomics)
@@ -68,6 +69,7 @@ Topics and Resources
 ## Machine Learning  
 #### Resources 
   * [Beginners guide to neural networks with scikit learn](https://www.kdnuggets.com/2016/10/beginners-guide-neural-networks-python-scikit-learn.html)
+  * [Eigenvalues and Eigenvectors](https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47)
 
 
 #### Tutorials 
